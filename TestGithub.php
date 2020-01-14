@@ -21,7 +21,7 @@
         {
             $num=$num+1;
             echo "<br/>".$i;
-           
+            echo "<br/>";
         }
     }     
     
